@@ -1,8 +1,7 @@
 demo : https://coro-game.firebaseapp.com/
 
-1.Clone project. \n
-2.Paste to your terminal :
-  npm install \n
+- 1.Clone project. 
+- 2.npm install 
   
 
 - yarn start
