@@ -1,11 +1,11 @@
 demo : https://coro-game.firebaseapp.com/
 
-- 1.Clone project. 
-- 2.npm install 
+- Clone project. 
+- npm install 
   
 
-- yarn start
+--yarn start
 
-- yarn buid
+-- yarn buid
 
-- yarn test
+-- yarn test
