@@ -4,8 +4,8 @@ demo : https://coro-game.firebaseapp.com/
 - npm install 
   
 
---yarn start
+- yarn start
 
--- yarn buid
+- yarn buid
 
--- yarn test
+- yarn test
