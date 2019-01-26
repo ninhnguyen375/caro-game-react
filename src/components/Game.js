@@ -36,7 +36,7 @@ export default class Game extends Component {
             xIsNext: !xIsNext,
             stepNumber: history.length
         });
-    }
+    } encapsulated
     renderSquare(i) {
         const history = this.state.history;
         const current = history[this.state.stepNumber];
